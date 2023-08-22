@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iTin", "iTin", "{44BBF122-1643-409A-8ED5-21FB2719AD16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{CCD1C1E5-A24C-4A57-BACA-28A2840BDC16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "iTin.Core.IO", "iTin.Core.IO", "{575E4902-B509-4819-8355-7CB45305BE28}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTin.Core.IO", "..\iTin.Core.IO\src\iTin.Core.IO.csproj", "{7C8757C6-B590-4488-BF61-0B16F29B5285}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "iTin.Core.IO.Compression", "src\iTin.Core.IO.Compression.csproj", "{6A7C3346-B1AD-4C17-8354-822645A37A8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C8757C6-B590-4488-BF61-0B16F29B5285}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C8757C6-B590-4488-BF61-0B16F29B5285}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C8757C6-B590-4488-BF61-0B16F29B5285}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C8757C6-B590-4488-BF61-0B16F29B5285}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A7C3346-B1AD-4C17-8354-822645A37A8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A7C3346-B1AD-4C17-8354-822645A37A8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A7C3346-B1AD-4C17-8354-822645A37A8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A7C3346-B1AD-4C17-8354-822645A37A8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{44BBF122-1643-409A-8ED5-21FB2719AD16} = {CCD1C1E5-A24C-4A57-BACA-28A2840BDC16}
+		{575E4902-B509-4819-8355-7CB45305BE28} = {44BBF122-1643-409A-8ED5-21FB2719AD16}
+		{7C8757C6-B590-4488-BF61-0B16F29B5285} = {575E4902-B509-4819-8355-7CB45305BE28}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7E253257-825E-40F1-9BD8-3624F02E7544}
+	EndGlobalSection
+EndGlobal
