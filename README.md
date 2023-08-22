@@ -1,5 +1,5 @@
 
-# What is iTin.Core.Compression?
+# What is iTin.Core.IO.Compression?
 
 iTin.Core.IO.Compression is a compression library.
 
