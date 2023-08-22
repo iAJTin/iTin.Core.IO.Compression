@@ -1,6 +1,7 @@
 
 # What is iTin.Core.Compression?
-iTin.Core.Compression is a compression library.
+
+iTin.Core.IO.Compression is a compression library.
 
 # Usage
    
@@ -20,6 +21,6 @@ My email address is
 
 
 [email]: ./assets/email.png "email"
-[documentation]: ./documentation/iTin.Core.Compression.md
+[documentation]: ./documentation/iTin.Core.IO.Compression.md
 
-[CHANGELOG]: https://github.com/iAJTin/iTin.Core.Compression/blob/master/CHANGELOG.md
+[CHANGELOG]: https://github.com/iAJTin/iTin.Core.IO.Compression/blob/master/CHANGELOG.md

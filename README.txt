@@ -1,8 +1,8 @@
 
-What is iTin.Core.Compression?
-==============================
+What is iTin.Core.IO.Compression?
+=================================
 
-iTin.Core.Compression is a compression library.
+iTin.Core.IO.Compression is a compression library.
 
 
 Changes in this version (v1.0.3)
@@ -19,4 +19,4 @@ Changes in this version (v1.0.3)
 Documentation
 ==============
 
- - For full code documentation, please see next link https://github.com/iAJTin/iTin.Core.Compression/blob/master/documentation/iTin.Core.Compression.md.
+ - For full code documentation, please see next link https://github.com/iAJTin/iTin.Core.IO.Compression/blob/master/documentation/iTin.Core.IO.Compression.md.
